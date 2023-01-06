@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/db.sqlite3" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/hello/admin.py" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/hello/apps.py" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/hello/models.py" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/hello/tests.py" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/hello/views.py" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/manage.py" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/pycharmtut/asgi.py" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/pycharmtut/settings.py" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/pycharmtut/urls.py" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/pycharmtut/wsgi.py" charset="windows-1251" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
